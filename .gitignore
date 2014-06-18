@@ -213,3 +213,11 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+/Examples/LincolnQuote/nbproject/private/
+/Examples/Concatenation/nbproject/private/
+/Examples/StringVariables/nbproject/private/
+/Examples/Exerice1.11.1/nbproject/private/
+/Exercises/Exerice1.11.1/nbproject/private/
+/Exercises/Exerice1.11.2/nbproject/private/
+/Examples/Arithmetic 1.11/nbproject/private/
+/Exercises/Exercise1.11.3/nbproject/private/
